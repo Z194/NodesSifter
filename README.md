@@ -5,10 +5,9 @@
       trojan、ss、vmess
 
 ## 使用方法：
-      过滤节点：
-            1.将节点URL地址粘贴到‘nodes_pool.txt’
-            2.运行 NodesSifter.py
-            3.完成，结果保存在‘finish_nodes_pool.txt’
+      1.将节点URL地址粘贴到‘nodes_pool.txt’
+      2.运行 NodesSifter.py
+      3.完成，结果保存在‘finish_nodes_pool.txt’
 
 ## 版本更新
       2.0版本：
